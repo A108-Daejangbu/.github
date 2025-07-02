@@ -98,7 +98,7 @@
 - OCR 서버 평균 응답 속도: 3.2초
 
 ## 📎 관련 링크
-- 시연 영상 : [Youtube Link](https://youtube.com)
+- 시연 영상 : [Youtube Link](https://youtu.be/RbSjS4kDB2M)
   
 ---
 
